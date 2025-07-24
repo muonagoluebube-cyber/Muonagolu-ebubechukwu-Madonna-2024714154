@@ -1,7 +1,7 @@
 # Muonagolu-ebubechukwu-Madonna-2024714154
 Cos 102 assignment 
-# Grading System Program by...............
-# Reg. No:................
+# Grading System Program by muonagolu ebubechukwu Madonna 
+# Reg. No:2024714154
 
 try:
     score = int(input("Enter your score (0 - 100): "))
@@ -18,7 +18,7 @@ try:
             grade = 'D'
         elif 40 <= score <= 44:
             grade = 'E'
-        else:
+        else:0<= score<=39
             grade = 'F'
 
         print(f"YES! Your grade is: {grade}")
