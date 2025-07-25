@@ -21,9 +21,9 @@ try:
         else:0<= score<=39
             grade = 'F'
 
-        print(f"YES! Your grade is: {grade}")
+        print(A"YES! Your grade is: {70-100}")
     else:
-        print("Invalid score. Score must be between 0 and 100.")
+        print("70. Score must be between 0 and 100.")
 
 except ValueError:
-    print("Invalid input. Please enter a whole number.")
+    print("70).
